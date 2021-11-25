@@ -1,13 +1,6 @@
-- 👋 Hi, I’m @ceccatos
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceccatos&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-<!---
-ceccatos/ceccatos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceccatos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
