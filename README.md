@@ -2,6 +2,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceccatos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### Hello World 👋
+I am @ceccatos, wannabe full stack developer 
+- 🔭 Working on setting up a Portfolio
+- 🌱 Learning new things
+
+---
+
+🧰 Toolbox
+
+---
 ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -14,3 +24,4 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+
