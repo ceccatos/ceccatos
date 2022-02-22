@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ceccatos/ceccatos">
-    <img src="img/logo.png" alt="Logo" width="400" height="auto">
+    <img src="img/logo.png" alt="Logo" width="300" height="auto">
   </a>
 
 <h3 align="center">Simone Ceccato</h3>
